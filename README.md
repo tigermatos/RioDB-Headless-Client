@@ -1,8 +1,8 @@
 # RioDB-Headless-Client
-A headless client for [RioDB](https://github.com/RioDB/riodb).
+A headless client for [RioDB](https://www.riodb.co).
 
 ## Installation
-1. Make sure to have [RioDB](https://github.com/RioDB/riodb) properly setup.
+1. Make sure to have [RioDB](https://www.riodb.co) properly setup.
 2. Install/Clone this repository
 3. Done!
 
